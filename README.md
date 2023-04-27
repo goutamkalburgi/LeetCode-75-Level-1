@@ -1,4 +1,3 @@
-theme: cayman
 # LeetCode 75 Level 1 Solutions
 
 This repository contains Jupyter notebook solutions to all of the Level 1 problems in LeetCode's 75 most popular interview questions.
