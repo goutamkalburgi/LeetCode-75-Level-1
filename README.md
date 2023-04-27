@@ -6,7 +6,7 @@ Each problem has its own Jupyter notebook file that includes the problem stateme
 
 ## Table of Contents
 
-* [1480. Running Sum of 1d Array]("./Running Sum of 1d Array - 1480.ipynb")
+[1480. Running Sum of 1d Array](./Running Sum of 1d Array - 1480.ipynb)
 * [724. Find Pivot Index](./Problem%202.ipynb)
 * [205. Isomorphic Strings](./Problem%203.ipynb)
 * [392. Is Subsequence](./Problem%203.ipynb)
