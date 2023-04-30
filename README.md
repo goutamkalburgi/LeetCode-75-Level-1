@@ -29,6 +29,7 @@ Each problem has its own Jupyter notebook file that includes the problem stateme
 * [746. Min Cost Climbing Stairs](./Min%20Cost%20Climbing%20Stairs%20-%20746.ipynb)
 * [62. Unique Paths](./Unique%20Paths%20-%2062.ipynb)
 * [438. Find All Anagrams in a String](./Find%20All%20Anagrams%20in%20a%20String%20-%20438.ipynb)
+* [424. Longest Repeating Character Replacement](./Longest%20Repeating%20Character%20Replacement%20-%20424.ipynb)
 * [1. Two Sum](./Two%20Sum%20-%201.ipynb)
 * [299. Bulls and Cows](./Bulls%20and%20Cows%20-%20299.ipynb)
 * [844. Backspace String Compare](./Backspace%20String%20Compare%20-%20844.ipynb)
